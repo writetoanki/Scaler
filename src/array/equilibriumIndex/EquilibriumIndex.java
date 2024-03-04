@@ -1,4 +1,4 @@
-package array;
+package array.equilibriumIndex;
 
 import java.util.Scanner;
 
